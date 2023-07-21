@@ -9,6 +9,21 @@ Do not remove the back-link in this web template
 @import url(http://fonts.googleapis.com/css?family=Raleway:800,700,400);
 @import url(http://fonts.googleapis.com/css?family=Signika:400,600);
 
+/* Custom */
+
+.item_overlay {
+    display: none !important;
+}
+.team_box {
+    display: none !important;
+}
+.team_section {
+    /* max-width: 993px; */
+    /* margin: 0 auto; */
+    margin-top: 100px !important;
+}
+
+
 /* Reset
 ---------------------------------*/
 ul {
