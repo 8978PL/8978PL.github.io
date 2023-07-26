@@ -11,6 +11,14 @@ Do not remove the back-link in this web template
 
 /* Custom */
 
+html{
+    overflow-x: hidden;
+}
+
+.a1 {
+    width: 100% !important;
+}
+
 .item_overlay {
     display: none !important;
 }
@@ -226,7 +234,7 @@ p {
 ---------------------------------*/
 
 .top_cont_outer {
-    background: #df0031;
+    background: #c74923;
     position: relative;
 }
 
