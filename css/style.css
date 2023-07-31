@@ -482,10 +482,19 @@ a.contact_btn:hover {
 /* Portfolio
 ---------------------------------*/
 
-
+#footer-texts {
+    width: 100% !important;
+    text-align: center;
+}
 #Portfolio {
     padding: 60px 0px;
+    background-color: #0d7b72;
+    color: #fff;
 }
+
+#Portfolio h2{
+    color: #fff;
+} 
 
 .Portfolio-nav {
     padding: 0;
